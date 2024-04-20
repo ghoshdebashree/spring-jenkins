@@ -13,7 +13,7 @@ class CicdwithjenkinsApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		logger.info("Test case executing !...");
+		logger.info("Test case executing ....");
 		assertEquals(true,true);
 	}
 
